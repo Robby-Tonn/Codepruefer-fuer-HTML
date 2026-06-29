@@ -1,0 +1,10 @@
+MIT-Lizenz
+
+Copyright © Robby Tonn Services 2026
+
+
+Hiermit wird jeder Person, die eine Kopie dieser Software und der zugehörigen Dokumentationsdateien (die „Software“) erhält, gebührenfrei die Erlaubnis erteilt, uneingeschränkt mit der Software zu handeln. Dies schließt insbesondere, aber nicht ausschließlich, das Recht ein, die Software zu nutzen, zu kopieren, zu verändern, zu fusionieren, zu veröffentlichen, zu verbreiten, unterzulizenzieren und/oder Kopien der Software zu verkaufen, sowie Personen, denen die Software überlassen wird, dies unter den folgenden Bedingungen zu gestatten:
+
+Der obige Urheberrechtshinweis und dieser Berechtigungshinweis müssen in allen Kopien oder wesentlichen Teilen der Software enthalten sein.
+
+Die Software wird ohne Mängelgewähr und ohne jegliche ausdrückliche oder stillschweigende Gewährleistung zur Verfügung gestellt. Dies schließt insbesondere, aber nicht ausschließlich, die Gewährleistung der Marktgängigkeit, der Eignung für einen bestimmten Zweck und der Nichtverletzung von Rechten Dritter ein. In keinem Fall sind die Autoren oder Urheberrechtsinhaber haftbar für Ansprüche, Schäden oder andere Verpflichtungen, sei es in Folge eines Vertrages, einer unerlaubten Handlung oder anderweitig, die aus, im Zusammenhang mit der Software oder durch die Nutzung oder andere Geschäfte mit der Software entstehen.
