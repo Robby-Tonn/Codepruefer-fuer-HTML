@@ -12,4 +12,4 @@ Das Beste: Dieses Programm bedarf keiner Installation! Sie führen einfach ein �
 
 Wir wünschen Ihnen viel Freude mit dem Programm und hoffen, dass es Ihnen viele Stunden Lebenszeit schenken wird.
 
-Ihr Robby Tonn Services
+Ihre Robby Tonn Services
