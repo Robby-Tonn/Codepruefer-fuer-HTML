@@ -10,6 +10,8 @@ So können Sie in Windeseile ein zurückerhaltenes Dokument prüfen und wissen d
 
 Das Beste: Dieses Programm bedarf keiner Installation! Sie führen einfach ein „CMD“ in der Adresszeile unter „Windows“ (ab „Windows 10“) aus. Geben dann eine Befehlszeile ein (mehr dazu in der Anleitung) und wenige Sekunden später startet die Benutzeroberfläche. Beachten Sie aber, dass Sie zuvor „Python“ installiert haben müssen.
 
+Wer es ganz einfach möchte, kann auch unsere EXE-Datei für die Installation verwenden. Die „Python“-Datei belassen wir für alle „Linux“ und „macOS“ Nutzer, die so dieses Programm plattformunabhängig nutzen können.
+
 Wir wünschen Ihnen viel Freude mit dem Programm und hoffen, dass es Ihnen viele Stunden Lebenszeit schenken wird.
 
 Ihre Robby Tonn Services
