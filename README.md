@@ -1,2 +1,10 @@
-# Codepruefer-fuer-HTML
-Dieses kleine Tool muss nicht einmal installiert werden. Man startet es übers Terminal und kann so seinen Code für Websites, den man selbst geschrieben hat oder per KI erstellt, auf fehlerhafte Zeichen prüfen. Mehr dazu in der Liesmich-Datei.
+Wir stellen Ihnen hier ein kleines Programm zur Verfügung, womit Sie in Ihrem HTML-Code nach fehlerhaften Zeichen suchen können.
+
+Unser Programm ist auf die deutsche Sprache optimiert. Da es bei Umlauten oft zu fehlerhaften Zeichendarstellungen auf Internetseiten kommt, sucht man oft manuell eine Ewigkeit im Code, um den Fehler zu finden. Hat man umfangreichere Seiten und damit Code, kann das eine Weile dauern. Genau hier greift unser Programm ein. Es schaut sich die Datei an (kann .htm, .html, .php und Weitere sein) und beseitigt alle fehlerhaften Zeichen, die bspw. durch Inkonsistenz zwischen "Charset"-Einstellungen erzeugt werden.
+
+Im klassischen "UTF-8" gibt es oft keine Probleme, wenn man im Code "&ouml" für das "ö" schreibt, wer aber direkt das "ö" (oder eben andere Umlaute) hineinschreibt, bekommt Probleme. Wenn man deutsche Umlaute richtig darstellen will, sollte man auf "Windows-1252" wechseln. Kollidieren diese zwei Formate aber, bspw. wenn man KI bittet eine Verbesserung vorzunehmen, erhält man seinen Code oft als "UTF-8" zurück, der aber eigentlich im "Windows-1252" eingereicht wurde.
+
+Somit erhält man zwar die Korrektur/Verbesserung der KI, aber muss dann manuell alles im Code korrigieren, um wieder die Umlaute richtig anzeigen zu lassen. Genau an dieser Stelle hilft Ihnen unser Programm. Sie lesen Ihre Datei ein (funktioniert auch alles offline, es werden keine Daten irgendwo hingeschickt) und im selben Moment können Sie das Ergebnis in einem Feld einsehen. Anschließend entscheiden Sie, ob die Ausgabe stimmt und bestätigen entweder das Überschreiben der Datei oder es wird eine Kopie angelegt.
+
+So können Sie in Windeseile ein zurück erhaltenes Dokument prüfen und wissen dann, dass wirklich wieder alles funktioniert. Wir veröffentlichen dieses Programm unter der "MIT-Lizenz", womit es frei verwendet werden kann, also keinen Einschränkungen unterliegt.
+Das Beste: Dieses Programm bedarf keiner Installation! Sie führen einfach ein "CMD" in der Adresszeile unter "Windows" aus. Geben dann eine Befehlszeile ein (mehr dazu in der Anleitung) und wenige Sekunden später startet die Benutzeroberfläche. Beachten Sie aber, dass Sie zuvor "Python" installiert haben müssen.
